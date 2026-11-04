@@ -1,0 +1,298 @@
+{
+  "vid": "1A2C",
+  "pid": "4D7E",
+  "interface": 1,
+  "endpoint": "82",
+  "report_bytes": 8,
+  "mapping": [
+    {
+      "index": 0,
+      "key": "A",
+      "hid_usage": 4,
+      "midi": 60,
+      "report_id": 4,
+      "byte": 2,
+      "bit": 4
+    },
+    {
+      "index": 1,
+      "key": "W",
+      "hid_usage": 26,
+      "midi": 61,
+      "report_id": 4,
+      "byte": 5,
+      "bit": 2
+    },
+    {
+      "index": 2,
+      "key": "S",
+      "hid_usage": 22,
+      "midi": 62,
+      "report_id": 4,
+      "byte": 4,
+      "bit": 6
+    },
+    {
+      "index": 3,
+      "key": "E",
+      "hid_usage": 8,
+      "midi": 63,
+      "report_id": 4,
+      "byte": 3,
+      "bit": 0
+    },
+    {
+      "index": 4,
+      "key": "D",
+      "hid_usage": 7,
+      "midi": 64,
+      "report_id": 4,
+      "byte": 2,
+      "bit": 7
+    },
+    {
+      "index": 5,
+      "key": "F",
+      "hid_usage": 9,
+      "midi": 65,
+      "report_id": 4,
+      "byte": 3,
+      "bit": 1
+    },
+    {
+      "index": 6,
+      "key": "T",
+      "hid_usage": 23,
+      "midi": 66,
+      "report_id": 4,
+      "byte": 4,
+      "bit": 7
+    },
+    {
+      "index": 7,
+      "key": "G",
+      "hid_usage": 10,
+      "midi": 67,
+      "report_id": 4,
+      "byte": 3,
+      "bit": 2
+    },
+    {
+      "index": 8,
+      "key": "Y",
+      "hid_usage": 28,
+      "midi": 68,
+      "report_id": 4,
+      "byte": 5,
+      "bit": 4
+    },
+    {
+      "index": 9,
+      "key": "H",
+      "hid_usage": 11,
+      "midi": 69,
+      "report_id": 4,
+      "byte": 3,
+      "bit": 3
+    },
+    {
+      "index": 10,
+      "key": "U",
+      "hid_usage": 24,
+      "midi": 70,
+      "report_id": 4,
+      "byte": 5,
+      "bit": 0
+    },
+    {
+      "index": 11,
+      "key": "J",
+      "hid_usage": 13,
+      "midi": 71,
+      "report_id": 4,
+      "byte": 3,
+      "bit": 5
+    },
+    {
+      "index": 12,
+      "key": "K",
+      "hid_usage": 14,
+      "midi": 72,
+      "report_id": 4,
+      "byte": 3,
+      "bit": 6
+    },
+    {
+      "index": 13,
+      "key": "O",
+      "hid_usage": 18,
+      "midi": 73,
+      "report_id": 4,
+      "byte": 4,
+      "bit": 2
+    },
+    {
+      "index": 14,
+      "key": "L",
+      "hid_usage": 15,
+      "midi": 74,
+      "report_id": 4,
+      "byte": 3,
+      "bit": 7
+    },
+    {
+      "index": 15,
+      "key": "P",
+      "hid_usage": 19,
+      "midi": 75,
+      "report_id": 4,
+      "byte": 4,
+      "bit": 3
+    },
+    {
+      "index": 16,
+      "key": "Z",
+      "hid_usage": 29,
+      "midi": 76,
+      "report_id": 4,
+      "byte": 5,
+      "bit": 5
+    },
+    {
+      "index": 17,
+      "key": "X",
+      "hid_usage": 27,
+      "midi": 77,
+      "report_id": 4,
+      "byte": 5,
+      "bit": 3
+    },
+    {
+      "index": 18,
+      "key": "C",
+      "hid_usage": 6,
+      "midi": 78,
+      "report_id": 4,
+      "byte": 2,
+      "bit": 6
+    },
+    {
+      "index": 19,
+      "key": "V",
+      "hid_usage": 25,
+      "midi": 79,
+      "report_id": 4,
+      "byte": 5,
+      "bit": 1
+    },
+    {
+      "index": 20,
+      "key": "B",
+      "hid_usage": 5,
+      "midi": 80,
+      "report_id": 4,
+      "byte": 2,
+      "bit": 5
+    },
+    {
+      "index": 21,
+      "key": "N",
+      "hid_usage": 17,
+      "midi": 81,
+      "report_id": 4,
+      "byte": 4,
+      "bit": 1
+    },
+    {
+      "index": 22,
+      "key": "M",
+      "hid_usage": 16,
+      "midi": 82,
+      "report_id": 4,
+      "byte": 4,
+      "bit": 0
+    },
+    {
+      "index": 23,
+      "key": ",",
+      "hid_usage": 54,
+      "midi": 83,
+      "report_id": 5,
+      "byte": 1,
+      "bit": 6
+    },
+    {
+      "index": 24,
+      "key": ".",
+      "hid_usage": 55,
+      "midi": 84,
+      "report_id": 5,
+      "byte": 1,
+      "bit": 7
+    },
+    {
+      "index": 25,
+      "key": "/",
+      "hid_usage": 56,
+      "midi": 85,
+      "report_id": 5,
+      "byte": 2,
+      "bit": 0
+    },
+    {
+      "index": 26,
+      "key": "Q",
+      "hid_usage": 20,
+      "midi": 86,
+      "report_id": 4,
+      "byte": 4,
+      "bit": 4
+    },
+    {
+      "index": 27,
+      "key": "R",
+      "hid_usage": 21,
+      "midi": 87,
+      "report_id": 4,
+      "byte": 4,
+      "bit": 5
+    },
+    {
+      "index": 28,
+      "key": "I",
+      "hid_usage": 12,
+      "midi": 88,
+      "report_id": 4,
+      "byte": 3,
+      "bit": 4
+    },
+    {
+      "index": 29,
+      "key": "1",
+      "hid_usage": 30,
+      "midi": 89,
+      "report_id": 4,
+      "byte": 5,
+      "bit": 6
+    },
+    {
+      "index": 30,
+      "key": "2",
+      "hid_usage": 31,
+      "midi": 90,
+      "report_id": 4,
+      "byte": 5,
+      "bit": 7
+    },
+    {
+      "index": 31,
+      "key": "3",
+      "hid_usage": 32,
+      "midi": 91,
+      "report_id": 4,
+      "byte": 6,
+      "bit": 0
+    }
+  ],
+  "evidence": "Windows HID preparsed caps and local HidP_SetUsages single-bit probes; physical32 rollover not yet verified"
+}

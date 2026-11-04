@@ -1,0 +1,194 @@
+[
+  {
+    "index": 0,
+    "key": "A",
+    "hid_usage": 4,
+    "midi": 60
+  },
+  {
+    "index": 1,
+    "key": "W",
+    "hid_usage": 26,
+    "midi": 61
+  },
+  {
+    "index": 2,
+    "key": "S",
+    "hid_usage": 22,
+    "midi": 62
+  },
+  {
+    "index": 3,
+    "key": "E",
+    "hid_usage": 8,
+    "midi": 63
+  },
+  {
+    "index": 4,
+    "key": "D",
+    "hid_usage": 7,
+    "midi": 64
+  },
+  {
+    "index": 5,
+    "key": "F",
+    "hid_usage": 9,
+    "midi": 65
+  },
+  {
+    "index": 6,
+    "key": "T",
+    "hid_usage": 23,
+    "midi": 66
+  },
+  {
+    "index": 7,
+    "key": "G",
+    "hid_usage": 10,
+    "midi": 67
+  },
+  {
+    "index": 8,
+    "key": "Y",
+    "hid_usage": 28,
+    "midi": 68
+  },
+  {
+    "index": 9,
+    "key": "H",
+    "hid_usage": 11,
+    "midi": 69
+  },
+  {
+    "index": 10,
+    "key": "U",
+    "hid_usage": 24,
+    "midi": 70
+  },
+  {
+    "index": 11,
+    "key": "J",
+    "hid_usage": 13,
+    "midi": 71
+  },
+  {
+    "index": 12,
+    "key": "K",
+    "hid_usage": 14,
+    "midi": 72
+  },
+  {
+    "index": 13,
+    "key": "O",
+    "hid_usage": 18,
+    "midi": 73
+  },
+  {
+    "index": 14,
+    "key": "L",
+    "hid_usage": 15,
+    "midi": 74
+  },
+  {
+    "index": 15,
+    "key": "P",
+    "hid_usage": 19,
+    "midi": 75
+  },
+  {
+    "index": 16,
+    "key": "Z",
+    "hid_usage": 29,
+    "midi": 76
+  },
+  {
+    "index": 17,
+    "key": "X",
+    "hid_usage": 27,
+    "midi": 77
+  },
+  {
+    "index": 18,
+    "key": "C",
+    "hid_usage": 6,
+    "midi": 78
+  },
+  {
+    "index": 19,
+    "key": "V",
+    "hid_usage": 25,
+    "midi": 79
+  },
+  {
+    "index": 20,
+    "key": "B",
+    "hid_usage": 5,
+    "midi": 80
+  },
+  {
+    "index": 21,
+    "key": "N",
+    "hid_usage": 17,
+    "midi": 81
+  },
+  {
+    "index": 22,
+    "key": "M",
+    "hid_usage": 16,
+    "midi": 82
+  },
+  {
+    "index": 23,
+    "key": ",",
+    "hid_usage": 54,
+    "midi": 83
+  },
+  {
+    "index": 24,
+    "key": ".",
+    "hid_usage": 55,
+    "midi": 84
+  },
+  {
+    "index": 25,
+    "key": "/",
+    "hid_usage": 56,
+    "midi": 85
+  },
+  {
+    "index": 26,
+    "key": "Q",
+    "hid_usage": 20,
+    "midi": 86
+  },
+  {
+    "index": 27,
+    "key": "R",
+    "hid_usage": 21,
+    "midi": 87
+  },
+  {
+    "index": 28,
+    "key": "I",
+    "hid_usage": 12,
+    "midi": 88
+  },
+  {
+    "index": 29,
+    "key": "1",
+    "hid_usage": 30,
+    "midi": 89
+  },
+  {
+    "index": 30,
+    "key": "2",
+    "hid_usage": 31,
+    "midi": 90
+  },
+  {
+    "index": 31,
+    "key": "3",
+    "hid_usage": 32,
+    "midi": 91
+  }
+]

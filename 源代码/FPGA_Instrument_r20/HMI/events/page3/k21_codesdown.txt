@@ -1,0 +1,22 @@
+wr=ku&32
+if(lt==0)
+{
+if(wr==0)
+{
+ku=ku+32
+}
+}else
+{
+if(wr>0)
+{
+ku=ku-32
+}else
+{
+ku=ku+32
+}
+}
+printh A5 51
+prints km,2
+prints ku,2
+printh 5A
+click m4,0

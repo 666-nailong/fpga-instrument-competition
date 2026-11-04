@@ -1,0 +1,22 @@
+wr=km&2048
+if(lt==0)
+{
+if(wr==0)
+{
+km=km+2048
+}
+}else
+{
+if(wr>0)
+{
+km=km-2048
+}else
+{
+km=km+2048
+}
+}
+printh A5 51
+prints km,2
+prints ku,2
+printh 5A
+click m4,0

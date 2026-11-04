@@ -1,0 +1,3 @@
+printh A5 20
+prints h0.val,4
+printh 5A

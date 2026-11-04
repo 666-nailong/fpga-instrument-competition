@@ -1,0 +1,22 @@
+wr=ku&2048
+if(lt==0)
+{
+if(wr==0)
+{
+ku=ku+2048
+}
+}else
+{
+if(wr>0)
+{
+ku=ku-2048
+}else
+{
+ku=ku+2048
+}
+}
+printh A5 51
+prints km,2
+prints ku,2
+printh 5A
+click m4,0

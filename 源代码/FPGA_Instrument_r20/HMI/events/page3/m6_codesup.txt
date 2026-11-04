@@ -1,0 +1,6 @@
+km=0
+ku=0
+printh A5 51
+prints km,2
+prints ku,2
+printh 5A

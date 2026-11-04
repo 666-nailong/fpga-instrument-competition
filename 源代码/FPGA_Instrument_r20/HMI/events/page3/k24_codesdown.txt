@@ -1,0 +1,22 @@
+wr=ku&256
+if(lt==0)
+{
+if(wr==0)
+{
+ku=ku+256
+}
+}else
+{
+if(wr>0)
+{
+ku=ku-256
+}else
+{
+ku=ku+256
+}
+}
+printh A5 51
+prints km,2
+prints ku,2
+printh 5A
+click m4,0

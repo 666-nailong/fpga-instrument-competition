@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW5AT-60B" pn="GW5AT-LV60PG484AC1/I0">gw5at60b-002</Device>
+    <FileList>
+        <File path="../src/ads1115_reader.v" type="file.verilog" enable="1" />
+        <File path="../src/audio_fx32.v" type="file.verilog" enable="1" />
+        <File path="../src/bowed_conflict_decode.v" type="file.verilog" enable="1" />
+        <File path="../src/bowed_wave.v" type="file.verilog" enable="1" />
+        <File path="../src/key_capture2.v" type="file.verilog" enable="1" />
+        <File path="../src/keyboard_status_uart.v" type="file.verilog" enable="1" />
+        <File path="../src/laptop_note_uart.v" type="file.verilog" enable="1" />
+        <File path="../src/modal_piano32.v" type="file.verilog" enable="1" />
+        <File path="../src/native_source_stream.v" type="file.verilog" enable="1" />
+        <File path="../src/natural_native_to_48k.v" type="file.verilog" enable="1" />
+        <File path="../src/natural_pcm_source.v" type="file.verilog" enable="1" />
+        <File path="../src/note_state_cdc32.v" type="file.verilog" enable="1" />
+        <File path="../src/organ_room.v" type="file.verilog" enable="1" />
+        <File path="../src/pcm5102_i2s.v" type="file.verilog" enable="1" />
+        <File path="../src/piano_space.v" type="file.verilog" enable="1" />
+        <File path="../src/pipe_organ.v" type="file.verilog" enable="1" />
+        <File path="../src/plucked_guitar.v" type="file.verilog" enable="1" />
+        <File path="../src/polyphony_selftest32.v" type="file.verilog" enable="1" />
+        <File path="../src/pressure_sustain32.v" type="file.verilog" enable="1" />
+        <File path="../src/resample_coefficient_decoder.v" type="file.verilog" enable="1" />
+        <File path="../src/sine_rom.v" type="file.verilog" enable="1" />
+        <File path="../src/tjc_control_merge.v" type="file.verilog" enable="1" />
+        <File path="../src/tjc_hmi_rx.v" type="file.verilog" enable="1" />
+        <File path="../src/tjc_hmi_rx32.v" type="file.verilog" enable="1" />
+        <File path="../src/tjc_hmi_uart_tx.v" type="file.verilog" enable="1" />
+        <File path="../src/tjc_hmi_uart_tx32.v" type="file.verilog" enable="1" />
+        <File path="../src/top_j18_natural32_pressure_tjc.v" type="file.verilog" enable="1" />
+        <File path="../src/touch_note_merge.v" type="file.verilog" enable="1" />
+        <File path="../src/touch_note_merge32.v" type="file.verilog" enable="1" />
+        <File path="../src/usb_hid_host.v" type="file.verilog" enable="1" />
+        <File path="../src/usb_hid_host_rom.v" type="file.verilog" enable="1" />
+        <File path="../src/usb_note_decoder32.v" type="file.verilog" enable="1" />
+        <File path="../src/usb_pll_50_to_60.v" type="file.verilog" enable="1" />
+        <File path="../src/voice_engine_32.v" type="file.verilog" enable="1" />
+        <File path="../src/mega60k_j18_natural32_pressure_tjc.cst" type="file.cst" enable="1" />
+        <File path="../src/timing.sdc" type="file.sdc" enable="1" />
+    </FileList>
+</Project>
